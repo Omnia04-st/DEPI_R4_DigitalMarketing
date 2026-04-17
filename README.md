@@ -53,4 +53,6 @@ This project aims to solve these challenges by applying structured digital marke
 -Create a structured execution plan with timeline, responsibilities, and key performance indicators (KPIs).
 ### Week 5 — Final Strategy Presentation
 - Compile and present a professional SOSTAC-based marketing strategy ready for implementation.
+## Presentation Link
 
+[View Presentation](https://canva.link/83rq1ptwppf0aqp)
