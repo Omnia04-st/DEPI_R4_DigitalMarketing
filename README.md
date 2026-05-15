@@ -1,7 +1,7 @@
 # Salah Furniture and Wholesale Trade
 ### _Digital Marketing Plan for a Kitchen Showroom under supervision of  Digital Egypt Pioneers Initiative_
 ---
-(https://github.com/Omnia04-st/DEPI_R4_DigitalMarketing/blob/main/new%20logo.png?raw=true)
+
 ##  Team Members
 - **Omnia Moharram Galal**  
 - **Manar Hassan Hussien**  
