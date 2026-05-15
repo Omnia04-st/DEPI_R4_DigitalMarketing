@@ -56,3 +56,5 @@ This project aims to solve these challenges by applying structured digital marke
 ## Presentation Link
 
 [View Presentation](https://canva.link/83rq1ptwppf0aqp)
+## Project Files
+- [Google Drive Folder](https://drive.google.com/drive/folders/1B4xBTZjWDiAEnPuqRF3QB4Rn0EjjWN6-?usp=drive_link)
